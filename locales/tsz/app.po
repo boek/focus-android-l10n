@@ -1492,9 +1492,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"Wékapirinkiri etsakwanharhitani?\n"
-"    Jatakwa > Etsakwanharhikata kurhak'urhini"
+msgstr "Wékapirinkiri etsakwanharhitani?%1$s Jatakwa > Etsakwanharhikata kurhak'urhini"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).

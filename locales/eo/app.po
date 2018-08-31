@@ -1504,9 +1504,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"Ĉu vi preferus vidi la version de la retejo por komputiloj?\n"
-"    Menuo > Peti version por komputiloj"
+msgstr "Ĉu vi preferus vidi la version de la retejo por komputiloj?%1$s Menuo > Peti version por komputiloj"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).

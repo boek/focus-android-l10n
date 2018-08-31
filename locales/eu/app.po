@@ -1467,10 +1467,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
-"Eskuratu behin sakatuta gehien bisitatzen dituzun webguneetarako sarbidea"
-"\n"
-"        Menua > Gehitu hasierako pantailan"
+msgstr "Eskuratu behin sakatuta gehien bisitatzen dituzun webguneetarako sarbidea%1$s Menua > Gehitu hasierako pantailan"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1513,9 +1510,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"Nahiago duzu mahaigaineko gune osoa ikusi?\n"
-"    Menua > Mahaigaineko gunea"
+msgstr "Nahiago duzu mahaigaineko gune osoa ikusi?%1$s Menua > Mahaigaineko gunea"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).

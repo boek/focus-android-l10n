@@ -1472,8 +1472,7 @@ msgstr ""
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
 msgstr ""
-"با اشاره یک انگشت به سایت های پربازدید خود دسترسی داشته باشید\n"
-"        فهرست> اضافه کردن به صفحه خانگی"
+"با اشاره یک انگشت به سایت های پربازدید خود دسترسی داشته باشید%1$s فهرست> اضافه کردن به صفحه خانگی"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1517,8 +1516,7 @@ msgstr ""
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
 msgstr ""
-"ترجیح به دیدن نسخه رومیزی وب‌سایت؟\n"
-"    فهرست > درخواست نسخه رومیزی وب‌سایت"
+"ترجیح به دیدن نسخه رومیزی وب‌سایت؟%1$s فهرست > درخواست نسخه رومیزی وب‌سایت"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).

@@ -1465,9 +1465,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
-"Pasiekite lankomiausias svetaines vienu spustelėjimu\n"
-"        Meniu > Įtraukti į pradžios ekraną"
+msgstr "Pasiekite lankomiausias svetaines vienu spustelėjimu%1$s Meniu > Įtraukti į pradžios ekraną"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1510,9 +1508,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"Norite tradicinės svetainės versijos?\n"
-"    Meniu > Prašyti ne mob. svetainės"
+msgstr "Norite tradicinės svetainės versijos?%1$s Meniu > Prašyti ne mob. svetainės"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).

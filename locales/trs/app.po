@@ -1459,10 +1459,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
-"Hiò doj gatut riña nej sitio rajsunt doj\n"
-"\n"
-"        Menû > Nuto' ma riña pantayâ ayi'ij"
+msgstr "Hiò doj gatut riña nej sitio rajsunt doj%1$s Menû > Nuto' ma riña pantayâ ayi'ij"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1505,9 +1502,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"Ruat ni'iaj sitio 'na' riña eskritorio aj\n"
-"    Menú > gachinj ni'iaj"
+msgstr "Ruat ni'iaj sitio 'na' riña eskritorio aj%1$s Menú > gachinj ni'iaj"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).

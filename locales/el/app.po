@@ -1475,9 +1475,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
-"Πρόσβαση με ένα πάτημα σε ιστοσελίδες συχνής χρήσης\n"
-"        Μενού > Προσθήκη στην αρχική οθόνη"
+msgstr "Πρόσβαση με ένα πάτημα σε ιστοσελίδες συχνής χρήσης%1$s Μενού > Προσθήκη στην αρχική οθόνη"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1520,9 +1518,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"Προτιμάτε την πλήρη έκδοση για υπολογιστές;\n"
-"    Μενού > Απαίτηση ιστοσελίδας για υπολογιστές"
+msgstr "Προτιμάτε την πλήρη έκδοση για υπολογιστές;%1$s Μενού > Απαίτηση ιστοσελίδας για υπολογιστές"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).

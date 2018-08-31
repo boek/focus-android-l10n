@@ -1370,9 +1370,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
-"Obtén acceso con un toque a los sitios que más usas\n"
-"        Menú > Agregar a la pantalla de inicio"
+msgstr "Obtén acceso con un toque a los sitios que más usas%1$s Menú > Agregar a la pantalla de inicio"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1415,9 +1413,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"¿Prefieres ver el sitio como en escritorio?\n"
-"    Menú > Solicitar sitio de escritorio"
+msgstr "¿Prefieres ver el sitio como en escritorio?%1$s Menú > Solicitar sitio de escritorio"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).

@@ -1467,9 +1467,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
-"Získajte jednoduchý prístup ku svojim obľúbeným stránkam\n"
-"        Ponuka > Pridať na úvodnú obrazovku"
+msgstr "Získajte jednoduchý prístup ku svojim obľúbeným stránkam%1$s Ponuka > Pridať na úvodnú obrazovku"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1512,9 +1510,7 @@ msgstr ""
 #, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"Chceli by ste radšej vidieť verziu stránky pre počítače?\n"
-"    Ponuka > Verzia stránky pre počítače"
+msgstr "Chceli by ste radšej vidieť verziu stránky pre počítače?%1$s Ponuka > Verzia stránky pre počítače"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
